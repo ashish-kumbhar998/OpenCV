@@ -1,0 +1,9 @@
+# train and val data
+train: /content/drive/MyDrive/p2v5_large/images/train
+val: /content/drive/MyDrive/p2v5_large/images/valid
+
+# number of classes
+nc: 4
+
+# class names
+names: ['bishop','knight','queen','king']
